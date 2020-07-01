@@ -12,3 +12,5 @@ public class FollowCamera : MonoBehaviour
         transform.position = target.position;
     }
 }
+
+// THis is test
